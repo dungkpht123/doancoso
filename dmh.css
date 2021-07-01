@@ -1,0 +1,10 @@
+.link{
+    color: blue;
+    text-underline-position: below;
+}
+.link :hover{
+    color: red;
+}
+.pagination{
+    margin-left: 860px;
+}
